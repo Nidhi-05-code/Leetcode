@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhi-05-code/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0268-missing-number](https://github.com/Nidhi-05-code/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nidhi-05-code/Leetcode/tree/master/0283-move-zeroes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nidhi-05-code/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nidhi-05-code/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nidhi-05-code/Leetcode/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nidhi-05-code/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -29,10 +31,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nidhi-05-code/Leetcode/tree/master/0268-missing-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nidhi-05-code/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nidhi-05-code/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Nidhi-05-code/Leetcode/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nidhi-05-code/Leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nidhi-05-code/Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nidhi-05-code/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
